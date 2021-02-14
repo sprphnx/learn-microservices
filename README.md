@@ -16,7 +16,7 @@ docker run --name rating-data-service -d -it -p8083:8083 --link discovery:discov
 
 update 
 
-eureka.client.service-url.defaultZone=http://<eureke-server-ip>:8761/eureka/
+eureka.client.service-url.defaultZone=http://[eureke-server-ip]:8761/eureka/
 
 # Reference
 https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas <main reference>
