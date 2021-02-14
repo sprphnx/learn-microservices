@@ -66,6 +66,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>rating-data-service</finalName>
 	</build>
 
 </project>

@@ -66,6 +66,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>movie-catalog-service</finalName>
 	</build>
 
 </project>
